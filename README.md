@@ -53,6 +53,9 @@ Showcase applied statistics skills in R by:
 
 ---
 
+## 📄 License
+- This project is licensed under the MIT lisence. See license file for details.
+
 ## 👩🏽‍💻 Author
 **Jade Muyambo** — M.S. Data Science
 University of Miami 
