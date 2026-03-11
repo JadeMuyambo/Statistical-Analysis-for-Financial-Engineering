@@ -51,7 +51,6 @@ Showcase applied statistics skills in R by:
 - **Resampling & inference:** **bootstrap** for portfolio weight variance; Monte Carlo vs theoretical checks.
 - **Volatility modeling:** ARCH intuition, diagnostics, and analytical variance verification.
 
----
 
 ## 📄 License
 - This project is licensed under the MIT lisence. See license file for details.
